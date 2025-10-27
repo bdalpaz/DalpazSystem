@@ -17,4 +17,3 @@ O objetivo principal desta landing page é servir como o principal ponto de cont
 
 
 ```markdown
-![Screenshot da Home do Dalpaz System](link_para_sua_imagem.png)
